@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+.vscode/
+dist/
+build/
+.DS_Store
+.idea/
+*.log
+coverage/
+prisma/
+
+# If you want to ignore lockfiles, uncomment the following line
+# package-lock.json
